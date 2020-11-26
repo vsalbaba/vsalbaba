@@ -1,6 +1,8 @@
-### Hi there 👋, I'm Vojtech
+### Hi there 👋 I'm Vojtech.
 
-I'm a Husband, Father and Developer
+I'm a Husband, Father and Developer.
+
+
 
 
 <!--
@@ -12,7 +14,11 @@ I'm a Husband, Father and Developer
 - 📫 How to reach me: vojtech.salbaba@gmail.com
 
 ## What I do
-
+I'm a webdeveloper specialising in Spring MVC and Spring Boot applications. I've gained experience in radiological and automotive industry.  
+<code><a href="https://in.linkedin.com/in/">
+<img align="left" alt="developer" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+</code>
 
 ## Languages and Tools
 <code><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" /> </code>
