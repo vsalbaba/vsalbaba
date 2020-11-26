@@ -21,12 +21,12 @@ I'm a webdeveloper specialising in Spring MVC and Spring Boot applications. I've
 </code>
 
 ## Languages and Tools
-<code><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" /> </code>
-<code><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spring.svg" /> </code>
-<code><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" /> </code>
-<code><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" /> </code>
-<code><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jquery.svg" /> </code>
-<code><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/swagger.svg" /> </code>
-<code><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoftsqlserver.svg" /> </code>
-<code><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/postgresql.svg" /> </code>
-<code><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/intellijidea.svg" /> </code>
+<code><img height="32" width="32" title="Java" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" /> </code>
+<code><img height="32" width="32" title="Spring" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spring.svg" /> </code>
+<code><img height="32" width="32" title="Html" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" /> </code>
+<code><img height="32" width="32" title="JavaScript" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" /> </code>
+<code><img height="32" width="32" title="jQuery" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jquery.svg" /> </code>
+<code><img height="32" width="32" title="Swagger" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/swagger.svg" /> </code>
+<code><img height="32" width="32" title="Microsoft SQL Server" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoftsqlserver.svg" /> </code>
+<code><img height="32" width="32" title="PostgreSQL" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/postgresql.svg" /> </code>
+<code><img height="32" width="32" title="IntelliJ Idea" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/intellijidea.svg" /> </code>
