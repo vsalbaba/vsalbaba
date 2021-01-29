@@ -15,7 +15,7 @@ I'm a Husband, Father and Developer.
 
 ## What I do
 I'm a webdeveloper specialising in Spring MVC and Spring Boot applications. I've gained experience in radiological and automotive industry.  
-<code><a href="https://in.linkedin.com/in/">
+<code><a href="https://www.linkedin.com/in/vojtěch-šalbaba-677a3bb/">
 <img align="left" alt="developer" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 </code>
