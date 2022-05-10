@@ -11,7 +11,7 @@ I'm a Husband, Father and Developer.
 <!--
 - 🔭 I’m currently working on radioactive waste management information system
 -->
-- 🔭 I’m currently working as a quality engineer
+- 🔭 I’m currently working as a senior quality engineer
 - 🌱 I’m currently learning French, Italian and optimizing DevOps 
 - 📫 How to reach me: vojtech.salbaba@gmail.com
 
